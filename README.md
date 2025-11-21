@@ -4,6 +4,6 @@
 <b>L</b>inux <b>SO</b>urce <b>R</b>eading <b>J</b>ournal
 </p>
 
-| sl no. |               journal entry                |    main source file     | subsystem |
-| :----: | :----------------------------------------: | :---------------------: | :-------: |
-|   0    | [`2025-11-21.md`](./journal/2025-11-21.md) | `include/linux/sched.h` |  `sched`  |
+| sl no. |               journal entry                |    main source file     | subsystem | focus                                                  |
+| :----: | :----------------------------------------: | :---------------------: | :-------: | :----------------------------------------------------- |
+|   0    | [`2025-11-21.md`](./journal/2025-11-21.md) | `include/linux/sched.h` |  `sched`  | Cover task states, `task_struct` members and functions |
