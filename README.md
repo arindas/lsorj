@@ -6,4 +6,4 @@
 
 |     |               journal entry                |    main source file     | subsystem | focus                                              |
 | :-: | :----------------------------------------: | :---------------------: | :-------: | :------------------------------------------------- |
-|  0  | [`2025-11-21.md`](./journal/2025-11-21.md) | `include/linux/sched.h` |  `sched`  | Cover task states, `task_struct` members and funcs |
+|  0  | [`2025-11-21.md`](./journal/2025-11-21.md) | `include/linux/sched.h` |  `sched`  | Cover task states and convenience macros and funcs |
